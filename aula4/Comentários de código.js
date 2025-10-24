@@ -11,3 +11,4 @@ Um bloco de código comentado
 
 console.log("linha 3");
 
+console.log("linha 4");
