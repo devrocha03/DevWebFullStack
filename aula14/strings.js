@@ -3,7 +3,7 @@
 let string = "O rato roeu a roupa do rei de roma";
 
 
-console.log(string.indexOf('x', 7));
+console.log(string.indexOf('a', 1));
 console.log(string.lastIndexOf('t', 0));
 console.log(string.replace(/r/g, '#')); // replace substitui os valores. Usar as barras são Expressões Regulares, pode usar a flag 'g' depois da barra.
 console.log(string.length); // length serve para saber o tamanho da string
