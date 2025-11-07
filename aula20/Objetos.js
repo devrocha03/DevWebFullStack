@@ -1,6 +1,6 @@
 // Para criar um objeto precisa abrir chaves {} e dentro da adiciona os atributos
 
-// !------------------------------------------------------------------------------------------
+
 /* const pessoa1 = {
   nome: "João",
   sobrenome: "Rocha",
@@ -25,7 +25,7 @@ function criaPessoa(nome, sobrenome, idade) {
   return { nome, sobrenome, idade };
 } */
 
-// !------------------------------------------------------------------------------------------
+
 
 /* const pessoa1 = criaPessoa("João", "Rocha", 35);
 const pessoa2 = criaPessoa("Maria", "James", 25);
@@ -34,11 +34,11 @@ const pessoa4 = criaPessoa("Caio", "Wall", 55);
 
 console.log(pessoa1.nome, pessoa1.sobrenome, pessoa1.idade); */
 
-// !------------------------------------------------------------------------------------------
+
 
 /* const pessoa = { primeiroNome: "João", segundoNome: "Alexandre", idade: 35 }; */
 
-// !------------------------------------------------------------------------------------------
+
 
 /* const person = {
     firstName: "João",
@@ -50,4 +50,3 @@ pessoas1.primeiroNome = "João";
 pessoas1.segundoNome = "Alexandre"
 pessoas1.idade = 35; */
 
-// !------------------------------------------------------------------------------------------
